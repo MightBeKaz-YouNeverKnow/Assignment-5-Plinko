@@ -391,12 +391,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 33097963}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17.55, y: -11.48, z: 0}
-  m_LocalScale: {x: 2.593848, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -38.30342, y: -0.73189926, z: 0}
+  m_LocalScale: {x: 47.311787, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1499537539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &33097967
 MonoBehaviour:
@@ -410,6 +410,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a5db31bddacbfe4aac1d0cd1277663f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishTrigger
+  player: {fileID: 765551213}
 --- !u!1 &42196742
 GameObject:
   m_ObjectHideFlags: 0
@@ -550,7 +551,6 @@ GameObject:
   - component: {fileID: 52255857}
   - component: {fileID: 52255856}
   - component: {fileID: 52255855}
-  - component: {fileID: 52255859}
   m_Layer: 0
   m_Name: Score Trigger (2)
   m_TagString: Untagged
@@ -571,7 +571,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreTrigger
   scoreKeeper: {fileID: 384793337}
-  ponits: 1
+  points: 1
+  player: {fileID: 765551213}
 --- !u!61 &52255856
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -691,20 +692,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &52255859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 52255854}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 445eb378734c5ef4e86716708275b4c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ScoreTrigger
-  scoreKeeper: {fileID: 0}
-  ponits: 1
 --- !u!1 &68536020
 GameObject:
   m_ObjectHideFlags: 0
@@ -1386,12 +1373,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 107238843}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.55, y: -11.48, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.30342, y: -0.73189926, z: 0}
   m_LocalScale: {x: 2.593848, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1499537539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &107238847
 MonoBehaviour:
@@ -1405,6 +1392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a5db31bddacbfe4aac1d0cd1277663f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishTrigger
+  player: {fileID: 765551213}
 --- !u!1 &118249184
 GameObject:
   m_ObjectHideFlags: 0
@@ -1837,12 +1825,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 145357359}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.450001, y: -11.48, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.696581, y: -0.73189926, z: 0}
   m_LocalScale: {x: 2.593848, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1499537539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &145357363
 MonoBehaviour:
@@ -1856,6 +1844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a5db31bddacbfe4aac1d0cd1277663f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishTrigger
+  player: {fileID: 765551213}
 --- !u!1 &165077568
 GameObject:
   m_ObjectHideFlags: 0
@@ -1987,12 +1976,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 165077568}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.45, y: -11.48, z: 0}
-  m_LocalScale: {x: 2.593848, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 31.69658, y: -0.73189926, z: 0}
+  m_LocalScale: {x: 28.532328, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1499537539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &165077572
 MonoBehaviour:
@@ -2006,6 +1995,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a5db31bddacbfe4aac1d0cd1277663f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishTrigger
+  player: {fileID: 765551213}
 --- !u!1 &193236380
 GameObject:
   m_ObjectHideFlags: 0
@@ -2836,7 +2826,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreTrigger
   scoreKeeper: {fileID: 384793337}
-  ponits: 1
+  points: 1
+  player: {fileID: 765551213}
 --- !u!61 &233179626
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5928,7 +5919,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -5936,7 +5927,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &760780794
@@ -5948,8 +5939,8 @@ Transform:
   m_GameObject: {fileID: 760780791}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 21.179121, y: -0.32313, z: 0}
-  m_LocalScale: {x: 1, y: 18.39, z: 1}
+  m_LocalPosition: {x: 33.179123, y: -0.32313, z: 0}
+  m_LocalScale: {x: 24, y: 18.39, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 134791398}
@@ -5987,8 +5978,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Player
   speed: 5
   Disk: {fileID: 5745798643186132228, guid: 22afc9faa55dd574eaffe258575fe490, type: 3}
-  Fish: {fileID: 0}
-  cameraFollow: {fileID: 0}
+  Fish: {fileID: 6988481215656609344, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
+  cameraFollow: {fileID: 1630868046}
+  isInFishMode: 0
 --- !u!212 &765551214
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6249,7 +6241,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreTrigger
   scoreKeeper: {fileID: 384793337}
-  ponits: 10
+  points: 10
+  player: {fileID: 765551213}
 --- !u!1 &792317567
 GameObject:
   m_ObjectHideFlags: 0
@@ -7971,12 +7964,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 949908437}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.63, y: -11.48, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.38342, y: -0.73189926, z: 0}
   m_LocalScale: {x: 3.7592, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1499537539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &949908441
 MonoBehaviour:
@@ -7990,6 +7983,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a5db31bddacbfe4aac1d0cd1277663f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishTrigger
+  player: {fileID: 765551213}
 --- !u!1 &962657862
 GameObject:
   m_ObjectHideFlags: 0
@@ -8150,7 +8144,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreTrigger
   scoreKeeper: {fileID: 384793337}
-  ponits: 10
+  points: 10
+  player: {fileID: 765551213}
 --- !u!61 &965163703
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10006,7 +10001,7 @@ Transform:
   m_GameObject: {fileID: 1182804627}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -17.1856, y: -0.5272431, z: 0}
+  m_LocalPosition: {x: -16.1856, y: -0.5272431, z: 0}
   m_LocalScale: {x: 0.20678158, y: 0.1765169, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11842,6 +11837,43 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1499537538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1499537539}
+  m_Layer: 0
+  m_Name: Fish Stuff
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1499537539
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499537538}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.24658, y: -10.7481, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2132905582}
+  - {fileID: 949908440}
+  - {fileID: 107238846}
+  - {fileID: 33097966}
+  - {fileID: 145357362}
+  - {fileID: 165077571}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1510112681
 GameObject:
   m_ObjectHideFlags: 0
@@ -11997,7 +12029,7 @@ Transform:
   m_GameObject: {fileID: 1514261073}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -19.1856, y: -0.5272431, z: 0}
+  m_LocalPosition: {x: -20.1856, y: -0.5272431, z: 0}
   m_LocalScale: {x: 0.20678158, y: 0.1765169, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -12370,6 +12402,7 @@ MonoBehaviour:
   camera: {fileID: 519420031}
   player: {fileID: 765551212}
   disk: {fileID: 5745798643186132228, guid: 22afc9faa55dd574eaffe258575fe490, type: 3}
+  fish: {fileID: 6988481215656609344, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
   lerpRate: 0.5
 --- !u!1 &1633761506
 GameObject:
@@ -12958,7 +12991,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -3403458788090105985, guid: 55f6b52658987854f9320864168f07f6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -12978,8 +13011,8 @@ Transform:
   m_GameObject: {fileID: 1686683283}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -15.220879, y: -0.43313003, z: 0}
-  m_LocalScale: {x: 1, y: 18.572079, z: 1}
+  m_LocalPosition: {x: -31.220879, y: -0.43313003, z: 0}
+  m_LocalScale: {x: 30, y: 18.572079, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 134791398}
@@ -13022,7 +13055,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 11.6, y: 6}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -14991,7 +15024,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreTrigger
   scoreKeeper: {fileID: 384793337}
-  ponits: 100
+  points: 100
+  player: {fileID: 765551213}
 --- !u!1 &2076885176
 GameObject:
   m_ObjectHideFlags: 0
@@ -15507,12 +15541,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2132905579}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.9, y: -11.48, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.14658, y: -0.73189926, z: 0}
   m_LocalScale: {x: 4, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1499537539}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2132905583
 MonoBehaviour:
@@ -15526,63 +15560,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a5db31bddacbfe4aac1d0cd1277663f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FishTrigger
---- !u!1001 &3735959878983293424
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6988481215656609344, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_Name
-      value: Fish
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.6378
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -7.10792
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8053319945379156291, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6b29c4667e20d174f97b86b300c41f79, type: 3}
+  player: {fileID: 765551213}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -15599,10 +15577,4 @@ SceneRoots:
   - {fileID: 233179628}
   - {fileID: 413087686}
   - {fileID: 1129184496}
-  - {fileID: 2132905582}
-  - {fileID: 949908440}
-  - {fileID: 107238846}
-  - {fileID: 33097966}
-  - {fileID: 145357362}
-  - {fileID: 165077571}
-  - {fileID: 3735959878983293424}
+  - {fileID: 1499537539}
