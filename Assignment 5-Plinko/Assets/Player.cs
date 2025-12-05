@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 
@@ -33,6 +34,7 @@ public class Player : MonoBehaviour
                 Vector3 position = transform.position;
                 Quaternion rotation = transform.rotation;
                 Instantiate(Fish, position, rotation);
+                cameraFollow.FollowFish();
                 isInFishMode = false;
             }
             else
@@ -61,6 +63,7 @@ public class Player : MonoBehaviour
 
 
     }
+   
 
 }
 

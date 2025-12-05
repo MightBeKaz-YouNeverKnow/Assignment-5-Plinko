@@ -23,8 +23,15 @@ public class CameraFollow : MonoBehaviour
         {
             targetPosition = disk.transform.position;
         }
-       
-        targetPosition.y = camera.transform.position.y;
+       if (fish != null)
+        {
+            targetPosition = player.transform.position;
+         }
+        else
+        {
+            targetPosition = fish.transform.position;
+        }
+            targetPosition.y = camera.transform.position.y;
         targetPosition.z = camera.transform.position.z;
         
         camera.transform.position = Vector3.Lerp(camera.transform.position, targetPosition, lerpRate);

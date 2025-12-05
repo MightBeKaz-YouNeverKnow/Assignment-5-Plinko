@@ -1,0 +1,2645 @@
+fileFormatVersion: 2
+guid: f901b1eb82f0ca84a8c0cc9713403554
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3693382075429832847
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_0
+  - first:
+      213: 423874739544321778
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_1
+  - first:
+      213: -7148425142870305700
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_2
+  - first:
+      213: 1622908718352462872
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_3
+  - first:
+      213: -3514286130668861443
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_4
+  - first:
+      213: 3163739616438779089
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_5
+  - first:
+      213: -655137268982725058
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_6
+  - first:
+      213: 8609596394913169074
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_7
+  - first:
+      213: -5736505292649564575
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_8
+  - first:
+      213: 4404928306433420176
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_9
+  - first:
+      213: 1428262320503478856
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_10
+  - first:
+      213: 7892200456056587071
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_11
+  - first:
+      213: 7829490074204951427
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_12
+  - first:
+      213: -5555516868162141208
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_13
+  - first:
+      213: -6577636528173497753
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_14
+  - first:
+      213: -1776663071741852750
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_15
+  - first:
+      213: 398135166978181710
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_16
+  - first:
+      213: 8968627498218326292
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_17
+  - first:
+      213: 3408649782295136696
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_18
+  - first:
+      213: -3705093153195480615
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_19
+  - first:
+      213: -6336309666209033844
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_20
+  - first:
+      213: 6816374523250934125
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_21
+  - first:
+      213: 1610846555386556358
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_22
+  - first:
+      213: -8482841885676003287
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_23
+  - first:
+      213: -5390674657468604894
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_24
+  - first:
+      213: -5225677704037022664
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_25
+  - first:
+      213: 2663157639840373154
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_26
+  - first:
+      213: -7464812461512908399
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_27
+  - first:
+      213: -2254120989802517669
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_28
+  - first:
+      213: -2458172425481117587
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_29
+  - first:
+      213: 2506149679709064432
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_30
+  - first:
+      213: -7122083609699586713
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_31
+  - first:
+      213: 992833014490585553
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_32
+  - first:
+      213: 6229458388245658181
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_33
+  - first:
+      213: 249162425826821163
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_34
+  - first:
+      213: -90152247564686193
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_35
+  - first:
+      213: -7063164217795497406
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_36
+  - first:
+      213: -7679452363952721834
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_37
+  - first:
+      213: -7591238966285869771
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_38
+  - first:
+      213: 1762785472590238039
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_39
+  - first:
+      213: -6399106419254567105
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_40
+  - first:
+      213: 3893240629887555599
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_41
+  - first:
+      213: 2833910744151441974
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_42
+  - first:
+      213: 4258670933100619545
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_43
+  - first:
+      213: 1969346575105892718
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_44
+  - first:
+      213: 2914284438684484101
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_45
+  - first:
+      213: 959120095953446348
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_46
+  - first:
+      213: 550328582753564525
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_47
+  - first:
+      213: -6311219212923116918
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_48
+  - first:
+      213: 2792057814361825728
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_49
+  - first:
+      213: -1826659972244686968
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_50
+  - first:
+      213: -539856000617160505
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_51
+  - first:
+      213: -4942458146162668620
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_52
+  - first:
+      213: 7437715675279249371
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_53
+  - first:
+      213: -2485081176530557224
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_54
+  - first:
+      213: -8330241531762777930
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_55
+  - first:
+      213: 9063247923354662508
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_56
+  - first:
+      213: 5333540177296259631
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_57
+  - first:
+      213: 5274398756088307043
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_58
+  - first:
+      213: -6903981679727571809
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_59
+  - first:
+      213: -2387104671432228404
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_60
+  - first:
+      213: -4412192730989080057
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_61
+  - first:
+      213: -4542492296720218372
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_62
+  - first:
+      213: 2177371394639971668
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_63
+  - first:
+      213: 5508048780142509228
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_64
+  - first:
+      213: -3846511499645459127
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_65
+  - first:
+      213: -2547426462131564141
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_66
+  - first:
+      213: 5537914721819248148
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_67
+  - first:
+      213: 6707594627692222559
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_68
+  - first:
+      213: -8896229134291863043
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_69
+  - first:
+      213: -5087657494226908307
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_70
+  - first:
+      213: 5396722686977781697
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_71
+  - first:
+      213: -1802819731257128648
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_72
+  - first:
+      213: -4303906889394193179
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_73
+  - first:
+      213: -7420031398194877140
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_74
+  - first:
+      213: 4087962729554263234
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_75
+  - first:
+      213: -1554584241986290979
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_76
+  - first:
+      213: -8337083684081516510
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_77
+  - first:
+      213: -7224655767923591858
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_78
+  - first:
+      213: -8556257302956800958
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_79
+  - first:
+      213: 489621369809009161
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_80
+  - first:
+      213: 8343876594995079567
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_81
+  - first:
+      213: 6983713698767093176
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_82
+  - first:
+      213: 5917829983198366325
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_83
+  - first:
+      213: -9161504740407468458
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_84
+  - first:
+      213: 6037140394229394938
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_85
+  - first:
+      213: 6806564648094498225
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_86
+  - first:
+      213: -8676100112412917121
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_87
+  - first:
+      213: -4832513559902434714
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_88
+  - first:
+      213: -2751064723821687160
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_89
+  - first:
+      213: -7164950777220195004
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_90
+  - first:
+      213: 6353891093727618456
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_91
+  - first:
+      213: 6384924926036506524
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_92
+  - first:
+      213: 1753303550041503042
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_93
+  - first:
+      213: 4283627750633116312
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_94
+  - first:
+      213: -3511874521337533621
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_95
+  - first:
+      213: -3399281118537631035
+    second: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b53e12987ebcc0800000000000000
+      internalID: -3693382075429832847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feeccf64d7e1e500800000000000000
+      internalID: 423874739544321778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2390
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c549ebfd431bbcc90800000000000000
+      internalID: -7148425142870305700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814784c71eab58610800000000000000
+      internalID: 1622908718352462872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78666326fba3fc0800000000000000
+      internalID: -3514286130668861443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2390
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcf9af3b6cd7eb20800000000000000
+      internalID: 3163739616438779089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364a2bff1c78e6f0800000000000000
+      internalID: -655137268982725058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be784a3e4e6b7770800000000000000
+      internalID: 8609596394913169074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_8
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2390
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166797364d6d360b0800000000000000
+      internalID: -5736505292649564575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be606d4f2712d30800000000000000
+      internalID: 4404928306433420176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a5fa3630532d310800000000000000
+      internalID: 1428262320503478856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_11
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 2390
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33cd67008ab68d60800000000000000
+      internalID: 7892200456056587071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383de657dbfe7ac60800000000000000
+      internalID: 7829490074204951427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2307
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34181c7d6d6e2b0800000000000000
+      internalID: -5555516868162141208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c59c6d6a87b4a0800000000000000
+      internalID: -6577636528173497753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2307
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3c54379560857e0800000000000000
+      internalID: -1776663071741852750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a435033d5768500800000000000000
+      internalID: 398135166978181710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2307
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198a1a1137f67c70800000000000000
+      internalID: 8968627498218326292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b90a6dcae4fd4f20800000000000000
+      internalID: 3408649782295136696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2307
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92d08586dd49cc0800000000000000
+      internalID: -3705093153195480615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819cb60ee7e018a0800000000000000
+      internalID: -6336309666209033844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610562a380a89e50800000000000000
+      internalID: 6816374523250934125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2a715860ea5610800000000000000
+      internalID: 1610846555386556358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202a7ebf34e64a80800000000000000
+      internalID: -8482841885676003287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e12e5c5f97035b0800000000000000
+      internalID: -5390674657468604894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834c134a0d9aa77b0800000000000000
+      internalID: -5225677704037022664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a99d8f63cf65f420800000000000000
+      internalID: 2663157639840373154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912d94dd98a76890800000000000000
+      internalID: -7464812461512908399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba11217e0c7b0e0800000000000000
+      internalID: -2254120989802517669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a986f331d2edd0800000000000000
+      internalID: -2458172425481117587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 359
+        width: 2128
+        height: 1809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -1064, y: -895.5}
+        - {x: 1064, y: -892.5}
+        - {x: 1064, y: 904.5}
+        - {x: -1064, y: 904.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc84050bd1a7c220800000000000000
+      internalID: 2506149679709064432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d693ff0b6492d90800000000000000
+      internalID: -7122083609699586713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_32
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ddfdcd5047cd00800000000000000
+      internalID: 992833014490585553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_33
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2162
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ab576266b737650800000000000000
+      internalID: 6229458388245658181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2085
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2448caf7e3357300800000000000000
+      internalID: 249162425826821163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2110
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c243c2207bfbef0800000000000000
+      internalID: -90152247564686193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1998
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242bc00f0999afd90800000000000000
+      internalID: -7063164217795497406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650701133ca1d6590800000000000000
+      internalID: -7679452363952721834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d5d69516086a690800000000000000
+      internalID: -7591238966285869771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_39
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d5f43c0ca67810800000000000000
+      internalID: 1762785472590238039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd8689d9ec137a0800000000000000
+      internalID: -6399106419254567105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_41
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d091c9b1970630800000000000000
+      internalID: 3893240629887555599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1484
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324f4e9ec2145720800000000000000
+      internalID: 2833910744151441974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1509
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176eb676a6d91b30800000000000000
+      internalID: 4258670933100619545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1427
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61a1d8a646845b10800000000000000
+      internalID: 1969346575105892718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1465
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502cc36a14e917820800000000000000
+      internalID: 2914284438684484101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1367
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc56e3845aa7f4d00800000000000000
+      internalID: 959120095953446348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1397
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6735c42ee823a700800000000000000
+      internalID: 550328582753564525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_48
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1367
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e81a609b0a68a0800000000000000
+      internalID: -6311219212923116918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1e3690ac16fb620800000000000000
+      internalID: 2792057814361825728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_50
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8873eecee6666a6e0800000000000000
+      internalID: -1826659972244686968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 883
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e955e3db0288f0800000000000000
+      internalID: -539856000617160505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 908
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0db8908cd86bb0800000000000000
+      internalID: -4942458146162668620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 796
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfcf5dfff2183760800000000000000
+      internalID: 7437715675279249371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e2e226d7338dd0800000000000000
+      internalID: -2485081176530557224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e21e5679056c80800000000000000
+      internalID: -8330241531762777930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_56
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f9d697ff17cd70800000000000000
+      internalID: 9063247923354662508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a740f688a840a40800000000000000
+      internalID: 5333540177296259631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_58
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd76449bd623940800000000000000
+      internalID: 5274398756088307043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_59
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c880cbd312030a0800000000000000
+      internalID: -6903981679727571809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14b91e2fc4fded0800000000000000
+      internalID: -2387104671432228404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d5d4861eb4c2c0800000000000000
+      internalID: -4412192730989080057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_62
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60b03c253d5f0c0800000000000000
+      internalID: -4542492296720218372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_63
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455cc994fb3973e10800000000000000
+      internalID: 2177371394639971668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_64
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacfae1ce25807c40800000000000000
+      internalID: 5508048780142509228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_65
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456d27bb227e9ac0800000000000000
+      internalID: -3846511499645459127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_66
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d7392129b5acd0800000000000000
+      internalID: -2547426462131564141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_67
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416417e2910aadc40800000000000000
+      internalID: 5537914721819248148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_68
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 282
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d9e886c9261d50800000000000000
+      internalID: 6707594627692222559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_69
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 307
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97d029cbe3a8480800000000000000
+      internalID: -8896229134291863043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_70
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b40cde6720569b0800000000000000
+      internalID: -5087657494226908307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_71
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf2a94d0b205ea40800000000000000
+      internalID: 5396722686977781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_72
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 263
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398a5491091bf6e0800000000000000
+      internalID: -1802819731257128648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_73
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7d47bc737544c0800000000000000
+      internalID: -4303906889394193179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_74
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 263
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d6950a1c0c60990800000000000000
+      internalID: -7420031398194877140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_75
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc3e1e817c5bb830800000000000000
+      internalID: 4087962729554263234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_76
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 263
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddabcf25ed10d6ae0800000000000000
+      internalID: -1554584241986290979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_77
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 225
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220cd93af8abc4c80800000000000000
+      internalID: -8337083684081516510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_78
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 263
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45ff606bdddcbb90800000000000000
+      internalID: -7224655767923591858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2440b62e051124980800000000000000
+      internalID: -8556257302956800958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90af7edaa0c7bc600800000000000000
+      internalID: 489621369809009161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_81
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a06e2e876bc370800000000000000
+      internalID: 8343876594995079567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_82
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdba049b922be060800000000000000
+      internalID: 6983713698767093176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_83
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac1b5040b502250800000000000000
+      internalID: 5917829983198366325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_84
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e94f37afbcbd080800000000000000
+      internalID: -9161504740407468458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_85
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6431d33b38c350800000000000000
+      internalID: 6037140394229394938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_86
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 195
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd77661c76c57e50800000000000000
+      internalID: 6806564648094498225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_87
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 165
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72c6eb6aec489780800000000000000
+      internalID: -8676100112412917121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac1c165867fecb0800000000000000
+      internalID: -4832513559902434714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_89
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e008e953142d9d0800000000000000
+      internalID: -2751064723821687160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_90
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d91aaca3bf09c90800000000000000
+      internalID: -7164950777220195004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_91
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895272f094e8d2850800000000000000
+      internalID: 6353891093727618456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_92
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9771f5346fcb9850800000000000000
+      internalID: 6384924926036506524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_93
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b7a31a4cf45810800000000000000
+      internalID: 1753303550041503042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_94
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921e7a5eb0827b30800000000000000
+      internalID: 4283627750633116312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_95
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 0
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6ee3cab0534fc0800000000000000
+      internalID: -3511874521337533621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_96
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca3fd535d353d0d0800000000000000
+      internalID: -3399281118537631035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c96786735b55d8e41a5f140a5679609a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_0: -3693382075429832847
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_1: 423874739544321778
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_10: 1428262320503478856
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_11: 7892200456056587071
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_12: 7829490074204951427
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_13: -5555516868162141208
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_14: -6577636528173497753
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_15: -1776663071741852750
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_16: 398135166978181710
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_17: 8968627498218326292
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_18: 3408649782295136696
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_19: -3705093153195480615
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_2: -7148425142870305700
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_20: -6336309666209033844
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_21: 6816374523250934125
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_22: 1610846555386556358
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_23: -8482841885676003287
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_24: -5390674657468604894
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_25: -5225677704037022664
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_26: 2663157639840373154
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_27: -7464812461512908399
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_28: -2254120989802517669
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_29: -2458172425481117587
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_3: 1622908718352462872
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_30: 2506149679709064432
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_31: -7122083609699586713
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_32: 992833014490585553
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_33: 6229458388245658181
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_34: 249162425826821163
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_35: -90152247564686193
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_36: -7063164217795497406
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_37: -7679452363952721834
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_38: -7591238966285869771
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_39: 1762785472590238039
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_4: -3514286130668861443
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_40: -6399106419254567105
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_41: 3893240629887555599
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_42: 2833910744151441974
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_43: 4258670933100619545
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_44: 1969346575105892718
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_45: 2914284438684484101
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_46: 959120095953446348
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_47: 550328582753564525
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_48: -6311219212923116918
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_49: 2792057814361825728
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_5: 3163739616438779089
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_50: -1826659972244686968
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_51: -539856000617160505
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_52: -4942458146162668620
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_53: 7437715675279249371
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_54: -2485081176530557224
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_55: -8330241531762777930
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_56: 9063247923354662508
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_57: 5333540177296259631
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_58: 5274398756088307043
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_59: -6903981679727571809
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_6: -655137268982725058
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_60: -2387104671432228404
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_61: -4412192730989080057
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_62: -4542492296720218372
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_63: 2177371394639971668
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_64: 5508048780142509228
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_65: -3846511499645459127
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_66: -2547426462131564141
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_67: 5537914721819248148
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_68: 6707594627692222559
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_69: -8896229134291863043
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_7: 8609596394913169074
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_70: -5087657494226908307
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_71: 5396722686977781697
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_72: -1802819731257128648
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_73: -4303906889394193179
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_74: -7420031398194877140
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_75: 4087962729554263234
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_76: -1554584241986290979
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_77: -8337083684081516510
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_78: -7224655767923591858
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_79: -8556257302956800958
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_8: -5736505292649564575
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_80: 489621369809009161
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_81: 8343876594995079567
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_82: 6983713698767093176
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_83: 5917829983198366325
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_84: -9161504740407468458
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_85: 6037140394229394938
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_86: 6806564648094498225
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_87: -8676100112412917121
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_88: -4832513559902434714
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_89: -2751064723821687160
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_9: 4404928306433420176
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_90: -7164950777220195004
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_91: 6353891093727618456
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_92: 6384924926036506524
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_93: 1753303550041503042
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_94: 4283627750633116312
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_95: -3511874521337533621
+      pngtree-scallop-seashell-realistic-sea-shell-close-up-isolated-on-white-png-image_15591770_96: -3399281118537631035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
